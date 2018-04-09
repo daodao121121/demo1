@@ -1,2 +1,2 @@
-Git is a distribute version control system.
-Git is free software.
+I am a nice student.
+I am a girl.
