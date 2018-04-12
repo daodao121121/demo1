@@ -10,4 +10,5 @@ ni tao yan wo ma
 jsdifofnshgkl;
 fkgjorweghkfbdnv
 wohendna 
-1fat,2play majiang,3dayouyi,4xuemei
+1fat,2play majiang,3dayouyi,4xuemei,5tailan,6zhengqianshao,7xuelidi
+1youqian
