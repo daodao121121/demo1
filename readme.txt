@@ -9,4 +9,8 @@ wo zhen de hen fan
 ni tao yan wo ma 
 jsdifofnshgkl;
 fkgjorweghkfbdnv
+<<<<<<< HEAD
 aaaaaaaaaaaaaaaaaaaaaaaaaa
+=======
+qqqqqqqqqqqqqqqqqqqqqqqqq
+>>>>>>> features1
