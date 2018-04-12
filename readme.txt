@@ -5,3 +5,5 @@ you are a chilren.
 yyyyyyyyyyy22222
 wo hao ya
 wo bushi henhao 
+wo zhen de hen fan 
+ni tao yan wo ma 
